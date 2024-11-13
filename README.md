@@ -1,14 +1,17 @@
 ## <ins>This publication covers the following:<ins>
 
 • Data Cleansing: 
+
 Spotlights the cleaning of data using SQL queries.
 With sampling focus on standardizing date format, breaking out address into individual columns, removing duplicates, and so forth
 
 • Query Set: 
+
 Grouped as basic and intermediate sets, it highlights the various ways of querying data from a table, from multiple tables, 
 using operators (ie., like, and, or), aggregate functions (ie., sum, ave, min, max, count), subqueries, windows function, to name a few.
 
 • Covid-19 Visualization:
+
 A subset of dataset (as of August 2024), activities that were covered includes SQL data exploration, moving results over into MS Excel, 
 dashboard visualization creation; showcasing a variety of sampling scenarios in reference to the aforementioned topic.
 
