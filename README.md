@@ -3,7 +3,7 @@
 • Data Cleansing: 
 
 Spotlights the cleaning of data using SQL queries.
-With sampling focus on standardizing date format, breaking out address into individual columns, removing duplicates, and so forth
+With sampling focus on standardizing date format, breaking out address into individual columns, removing duplicates, and so forth.
 
 • Query Set: 
 
