@@ -63,7 +63,7 @@ https://github.com/njmlopez17/MySQL_Workbench_projects/blob/534263e797a6cd5cb637
 
 MySQL documentation
 
-https://github.com/njmlopez17/MySQL_Workbench_projects/blob/0b51968ebe2826b6fc007fa30d0413a9b2a7f4ff/04-Data%20Cleaning%20(MySQL)%20and%20Tableau%20Visualization%20(SocialMediaTop100)/05-documentation/MySQL%20Data%20documentation.pdf
+https://github.com/njmlopez17/MySQL_Workbench_projects/blob/fbcc1ae8fdb3d6e585b0b2520d209bf25b46b4ef/04-Data%20Cleaning%20(MySQL)%20and%20Tableau%20Visualization%20(SocialMediaTop100)/05-documentation/MySQL%20Data%20documentation.pdf
 
 Tableau documentation
 
