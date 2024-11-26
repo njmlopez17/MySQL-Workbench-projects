@@ -67,8 +67,8 @@ https://github.com/njmlopez17/MySQL_Workbench_projects/blob/0b51968ebe2826b6fc00
 
 Tableau documentation
 
-https://github.com/njmlopez17/MySQL_Workbench_projects/blob/15efa753bf82bc90ed3d9e412cab5055914f99f9/04-Data%20Cleaning%20(MySQL)%20and%20Tableau%20Visualization%20(SocialMediaTop100)/05-documentation/1st%20set/Tableau%20documentation%201.pdf
+https://github.com/njmlopez17/MySQL_Workbench_projects/blob/fd39e91bb3e990ccb62983582e13b44242ecf11a/04-Data%20Cleaning%20(MySQL)%20and%20Tableau%20Visualization%20(SocialMediaTop100)/05-documentation/1st%20set/Tableau%20documentation%201.pdf
 
-https://github.com/njmlopez17/MySQL_Workbench_projects/blob/15efa753bf82bc90ed3d9e412cab5055914f99f9/04-Data%20Cleaning%20(MySQL)%20and%20Tableau%20Visualization%20(SocialMediaTop100)/05-documentation/2nd%20set/Tableau%20documentation%202.pdf
+https://github.com/njmlopez17/MySQL_Workbench_projects/blob/fd39e91bb3e990ccb62983582e13b44242ecf11a/04-Data%20Cleaning%20(MySQL)%20and%20Tableau%20Visualization%20(SocialMediaTop100)/05-documentation/2nd%20set/Tableau%20documentation%202.pdf
 
 
