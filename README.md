@@ -59,6 +59,10 @@ Tableau documentation
 
 https://github.com/njmlopez17/MySQL_Workbench_projects/blob/534263e797a6cd5cb637575f397aaa690cdc2263/02-Data%20Porfolio%20Project%20using%20MySQL%20Excel%20Tableau%20(Covid-19%20dataset)/04-Tableau%20workbook/Tableau%20documentation.pdf
 
+Live visualization:
+
+https://public.tableau.com/app/profile/noel.lopez6438/viz/Covid-19TableauDashboard_17303378497140/Dashboard1?publish=yes
+
 • Social Media Visualization:
 
 MySQL documentation
@@ -69,6 +73,11 @@ Tableau documentation
 
 https://github.com/njmlopez17/MySQL_Workbench_projects/blob/fd39e91bb3e990ccb62983582e13b44242ecf11a/04-Data%20Cleaning%20(MySQL)%20and%20Tableau%20Visualization%20(SocialMediaTop100)/05-documentation/1st%20set/Tableau%20documentation%201.pdf
 
-https://github.com/njmlopez17/MySQL_Workbench_projects/blob/fd39e91bb3e990ccb62983582e13b44242ecf11a/04-Data%20Cleaning%20(MySQL)%20and%20Tableau%20Visualization%20(SocialMediaTop100)/05-documentation/2nd%20set/Tableau%20documentation%202.pdf
+https://github.com/njmlopez17/MySQL_Workbench_projects/blob/448886c30e715188317b939367a51eca7db0a038/04-Data%20Cleaning%20(MySQL)%20and%20Tableau%20Visualization%20(SocialMediaTop100)/05-documentation/2nd%20set/Tableau%20documentation%202.pdf
+
+Live visualization:
+
+https://public.tableau.com/app/profile/noel.lopez6438/viz/SocialMedia1_17325738366760/Dashboard1?publish=yes
+https://public.tableau.com/app/profile/noel.lopez6438/viz/SocialMedia2_17325804082500/Dashboard1?publish=yes
 
 
